@@ -10,6 +10,7 @@ https://codex.wordpress.org/Right-to-Left_Language_Support
 */
 
 /* Reset */
+/* George */
 body {
 	direction: rtl;
 	unicode-bidi: embed;
